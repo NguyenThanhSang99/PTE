@@ -1,0 +1,1 @@
+call PTE/Scripts/activate.bat
